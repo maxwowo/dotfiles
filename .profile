@@ -26,6 +26,5 @@ if [ -d "$HOME/.local/bin" ] ; then
     PATH="$HOME/.local/bin:$PATH"
 fi
 
-
 # Added by Toolbox App
 export PATH="$PATH:/home/max/.local/share/JetBrains/Toolbox/scripts"
