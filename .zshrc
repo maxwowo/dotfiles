@@ -86,6 +86,7 @@ plugins=(
   dotenv
   fzf
   git
+  mvn
   terraform
   tmux
   zsh-autosuggestions
