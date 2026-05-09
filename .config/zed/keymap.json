@@ -31,4 +31,10 @@
       "shift-s": "vim::PushSneakBackward",
     },
   },
+  {
+    "context": "vim_mode == visual",
+    "bindings": {
+      "shift-x": "vim::Exchange",
+    },
+  },
 ]
