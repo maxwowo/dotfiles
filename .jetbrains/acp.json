@@ -4,8 +4,8 @@
     "use_custom_mcp": true
   },
   "agent_servers": {
-    "Oh My Pi": {
-        "command": "/home/max/.local/bin/omp",
+    "OpenCode": {
+        "command": "/home/max/.opencode/bin/opencode",
         "args": [
             "acp"
         ]
